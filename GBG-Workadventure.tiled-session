@@ -1108,6 +1108,50 @@
         "dach.json#walls2": {
             "scaleInDock": 1
         },
+        "dachx.json": {
+            "scale": 1.7287259615384616,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.2580824584579,
+                "y": 208.53507613154417
+            }
+        },
+        "dachx.json#Basketball": {
+            "scaleInDock": 1
+        },
+        "dachx.json#Boxen": {
+            "scaleInDock": 1
+        },
+        "dachx.json#bicycle": {
+            "scaleInDock": 1
+        },
+        "dachx.json#cija": {
+            "scaleInDock": 1
+        },
+        "dachx.json#floors": {
+            "scaleInDock": 1
+        },
+        "dachx.json#hyp0": {
+            "scaleInDock": 1
+        },
+        "dachx.json#hyp1": {
+            "scaleInDock": 1
+        },
+        "dachx.json#hyp2": {
+            "scaleInDock": 1
+        },
+        "dachx.json#hyp3": {
+            "scaleInDock": 1
+        },
+        "dachx.json#hyp4": {
+            "scaleInDock": 1
+        },
+        "dachx.json#hyp5": {
+            "scaleInDock": 1
+        },
+        "dachx.json#walls2": {
+            "scaleInDock": 1
+        },
         "done/NeubauOG.tmx#cija": {
             "scaleInDock": 1
         },
@@ -1177,7 +1221,7 @@
             "scale": 1.5,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 2709.333333333333,
+                "x": 2708.6666666666665,
                 "y": 75.66666666666666
             }
         },
@@ -1692,6 +1736,7 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "dach.json",
         "draussen.json",
         "draussenx.json",
         "Erdgeschoss.json",
@@ -1699,7 +1744,6 @@
         "suedfHof.json",
         "hinterHof.json",
         "garden.json",
-        "dach.json",
         "Obergeschoss.json",
         "Obergeschossx.json",
         "done/tsx/tilesets_deviant_milkian_1.tsx",
