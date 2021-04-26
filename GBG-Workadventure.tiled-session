@@ -1486,8 +1486,8 @@
             "scale": 0.5,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 1776,
-                "y": 1855
+                "x": 2040,
+                "y": 2913
             }
         },
         "suedf1etage.json#DeviantMilkian": {
@@ -1692,13 +1692,13 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "draussen.json",
         "draussenx.json",
         "Erdgeschoss.json",
         "suedf2etage.json",
         "suedfHof.json",
         "hinterHof.json",
         "garden.json",
-        "draussen.json",
         "dach.json",
         "Obergeschoss.json",
         "Obergeschossx.json",
