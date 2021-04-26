@@ -233,8 +233,8 @@
             "scale": 0.5,
             "selectedLayer": 38,
             "viewCenter": {
-                "x": 3518,
-                "y": 221
+                "x": 4080,
+                "y": 1967
             }
         },
         "Erdgeschoss.json#Bunnys": {
@@ -858,8 +858,8 @@
             "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1808,
-                "y": 2215.5
+                "x": 1920,
+                "y": 1919.5
             }
         },
         "Sporthalle.json#Basketball": {
@@ -1018,8 +1018,8 @@
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 303.5,
-                "y": 173.25
+                "x": 640,
+                "y": 639.75
             }
         },
         "alchtest.json#alchtest": {
@@ -1174,11 +1174,11 @@
             "scaleInDock": 1
         },
         "draussen.json": {
-            "scale": 0.18,
-            "selectedLayer": 9,
+            "scale": 1.5,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 2205.5555555555557,
-                "y": 1991.6666666666667
+                "x": 2709.333333333333,
+                "y": 75.66666666666666
             }
         },
         "draussen.json#Basketball": {
@@ -1292,7 +1292,7 @@
         },
         "draussenx.json": {
             "scale": 0.18711621856027752,
-            "selectedLayer": 0,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 1923.937982340263,
                 "y": 1921.2658462536792
@@ -1486,8 +1486,8 @@
             "scale": 0.5,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 2040,
-                "y": 2913
+                "x": 1776,
+                "y": 1855
             }
         },
         "suedf1etage.json#DeviantMilkian": {
@@ -1539,10 +1539,10 @@
         },
         "suedfHof.json": {
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 941,
-                "y": 837.5
+                "x": 1447,
+                "y": 1281.5
             }
         },
         "suedfHof.json#01_palette1": {
@@ -1580,6 +1580,9 @@
             "scaleInEditor": 1
         },
         "suedfHof.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "suedfHof.json#roterFaden": {
             "scaleInDock": 1
         },
         "suedfHof.json#wintiles": {
@@ -1687,15 +1690,15 @@
         "suedf1etage.json"
     ],
     "project": "GBG-Workadventure.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
+        "draussenx.json",
         "Erdgeschoss.json",
         "suedf2etage.json",
         "suedfHof.json",
         "hinterHof.json",
         "garden.json",
         "draussen.json",
-        "draussenx.json",
         "dach.json",
         "Obergeschoss.json",
         "Obergeschossx.json",
