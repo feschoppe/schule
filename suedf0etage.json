@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/Schulseelsorge.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/Seelsorge\/Schulseelsorge.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/kontorquiz.pdf"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/GBGKontor\/kontorQuiz.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/kontor.pdf"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/GBGKontor\/kontor.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
