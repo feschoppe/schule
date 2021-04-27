@@ -548,10 +548,10 @@
         },
         "Forum.json": {
             "scale": 0.5,
-            "selectedLayer": 12,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 1268,
-                "y": 711
+                "x": 370,
+                "y": 881
             }
         },
         "Forum.json#Floor1": {
@@ -999,10 +999,10 @@
         },
         "Sporthalle.json": {
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 307.9999999999999,
-                "y": 1810
+                "x": 1338.6666666666665,
+                "y": 674
             }
         },
         "Sporthalle.json#Basketball": {
@@ -1724,10 +1724,10 @@
         },
         "suedf0etage.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 1573.3333333333335,
-                "y": 1128.6666666666665
+                "x": 2818.6666666666665,
+                "y": 1639.333333333333
             }
         },
         "suedf0etage.json#DeviantMilkian": {
@@ -1755,8 +1755,8 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 3380,
-                "y": 2761
+                "x": 1282,
+                "y": 2685
             }
         },
         "suedf1etage.json#DeviantMilkian": {
@@ -1784,9 +1784,9 @@
         },
         "suedf2etage.json": {
             "scale": 0.33,
-            "selectedLayer": 12,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1272.727272727273,
+                "x": 1275.757575757576,
                 "y": 1646.9696969696968
             }
         },
@@ -1811,10 +1811,10 @@
         },
         "suedfHof.json": {
             "scale": 1,
-            "selectedLayer": 4,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 909,
-                "y": 765.5
+                "x": 1276,
+                "y": 994.5
             }
         },
         "suedfHof.json#01_palette1": {
@@ -1964,18 +1964,18 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Lobby.json",
+        "suedf2etage.json",
+        "suedf1etage.json",
+        "suedf0etage.json",
         "suedfHof.json",
         "Obergeschoss.json",
         "draussen.json",
-        "suedf0etage.json",
         "Forum.json",
         "Erdgeschoss.json",
         "garden.json",
-        "suedf1etage.json",
-        "suedf2etage.json",
         "Forumz.json",
-        "Erdgeschossz.json",
-        "done/Erdgeschossx.json"
+        "Erdgeschossz.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
