@@ -52,6 +52,48 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json": {
+            "scale": 0.14901960784313725,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4079.999999999999,
+                "y": 1969.53947368421
+            }
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#Magnolia": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#Robo": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#Tafeln": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#Warnung": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#cija": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#dm": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#floor": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#general": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#roterFaden": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/Erdgeschoss.json#walls2": {
+            "scaleInDock": 1
+        },
+        "/home/moehle/Schreibtisch/workadventure/done/tsx/z-labor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "/home/moehle/Videos/clips/Pictures/Desktop/walls2.tsx": {
             "scaleInDock": 1
         },
@@ -188,11 +230,11 @@
             }
         },
         "Container.json": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 3622,
-                "y": 1835
+                "x": 11040.666666666666,
+                "y": 1347
             }
         },
         "Container.json#Tafeln": {
@@ -230,16 +272,19 @@
             "scaleInEditor": 1
         },
         "Erdgeschoss.json": {
-            "scale": 0.5,
-            "selectedLayer": 38,
+            "scale": 0.75,
+            "selectedLayer": 42,
             "viewCenter": {
-                "x": 4080,
-                "y": 1967
+                "x": 7485.333333333333,
+                "y": 2884.6666666666665
             }
         },
         "Erdgeschoss.json#Bunnys": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Erdgeschoss.json#Chemie": {
+            "scaleInDock": 1
         },
         "Erdgeschoss.json#DeviantMilkian": {
             "scaleInDock": 1
@@ -327,8 +372,8 @@
             "scale": 0.75,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 6420,
-                "y": 646
+                "x": 4456,
+                "y": 1338
             }
         },
         "Erdgeschossx.json#DeviantMilkian": {
@@ -376,10 +421,16 @@
         "Erdgeschossy.json#DeviantMilkian": {
             "scaleInDock": 1
         },
+        "Erdgeschossy.json#Magnolia": {
+            "scaleInDock": 1
+        },
         "Erdgeschossy.json#Robo": {
             "scaleInDock": 1
         },
         "Erdgeschossy.json#Tafeln": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossy.json#Warnung": {
             "scaleInDock": 1
         },
         "Erdgeschossy.json#cija": {
@@ -394,7 +445,55 @@
         "Erdgeschossy.json#general": {
             "scaleInDock": 1
         },
+        "Erdgeschossy.json#roterFaden": {
+            "scaleInDock": 1
+        },
         "Erdgeschossy.json#walls2": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json": {
+            "scale": 1,
+            "selectedLayer": 21,
+            "viewCenter": {
+                "x": 5676,
+                "y": 3181.5
+            }
+        },
+        "Erdgeschossz.json#Chemie": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Erdgeschossz.json#Magnolia": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#Robo": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#Tafeln": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#Warnung": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#chemie": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#cija": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#dm": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#floor": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#general": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#roterFaden": {
+            "scaleInDock": 1
+        },
+        "Erdgeschossz.json#walls2": {
             "scaleInDock": 1
         },
         "Erdtest.json": {
@@ -448,12 +547,15 @@
             "scaleInDock": 1
         },
         "Forum.json": {
-            "scale": 0.25,
-            "selectedLayer": -1,
+            "scale": 0.5,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1140,
-                "y": 1406
+                "x": 1268,
+                "y": 711
             }
+        },
+        "Forum.json#Floor1": {
+            "scaleInDock": 1
         },
         "Forum.json#Magnolia": {
             "scaleInDock": 1
@@ -483,6 +585,44 @@
             "scaleInDock": 1
         },
         "Forum.json#walls2": {
+            "scaleInDock": 1
+        },
+        "Forumz.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 854.6666666666666,
+                "y": 403.33333333333326
+            }
+        },
+        "Forumz.json#Magnolia": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#Robo": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#Tafeln": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#Warnung": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#cija": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#dm": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#floor": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#general": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#roterFaden": {
+            "scaleInDock": 1
+        },
+        "Forumz.json#walls2": {
             "scaleInDock": 1
         },
         "KA.tsx": {
@@ -764,12 +904,15 @@
             }
         },
         "Obergeschoss.json": {
-            "scale": 1.5,
-            "selectedLayer": 12,
+            "scale": 0.75,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 3260,
-                "y": 2658.333333333333
+                "x": 4866.666666666666,
+                "y": 2350
             }
+        },
+        "Obergeschoss.json#Floor1": {
+            "scaleInDock": 1
         },
         "Obergeschoss.json#Tafeln": {
             "scaleInDock": 1
@@ -855,11 +998,11 @@
             "scaleInDock": 1
         },
         "Sporthalle.json": {
-            "scale": 1,
-            "selectedLayer": 7,
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1920,
-                "y": 1919.5
+                "x": 307.9999999999999,
+                "y": 1810
             }
         },
         "Sporthalle.json#Basketball": {
@@ -885,6 +1028,9 @@
             "scaleInDock": 1
         },
         "Sporthalle.json#parquet": {
+            "scaleInDock": 1
+        },
+        "Sporthalle.json#roterFaden": {
             "scaleInDock": 1
         },
         "Sporthalle.json#walls2": {
@@ -1152,6 +1298,77 @@
         "dachx.json#walls2": {
             "scaleInDock": 1
         },
+        "done/Erdgeschossx.json": {
+            "scale": 0.25,
+            "selectedLayer": 38,
+            "viewCenter": {
+                "x": 6736,
+                "y": 3694
+            }
+        },
+        "done/Erdgeschossx.json#Magnolia": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#Robo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#Tafeln": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#Warnung": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#cija": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#dm": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#floor": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#general": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#roterFaden": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Erdgeschossx.json#walls2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "done/Marcin.json": {
+            "scale": 0.6680850055815634,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 335.28667479224373,
+                "y": 339.0287135734072
+            }
+        },
+        "done/Marcin.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "done/Marcin.json#doors": {
+            "scaleInDock": 1
+        },
+        "done/Marcin.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "done/Marcin.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "done/Marcin.json#worldExit": {
+            "scaleInDock": 1
+        },
         "done/NeubauOG.tmx#cija": {
             "scaleInDock": 1
         },
@@ -1166,6 +1383,14 @@
         },
         "done/cija_32x32_expansion for Pipoya_CC0.tsx": {
             "scaleInDock": 1
+        },
+        "done/erdgeschoss.json": {
+            "scale": 0.09472082283795129,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1815.8626038781167,
+                "y": -21679.499168975075
+            }
         },
         "done/erdgeschoss.json#dm": {
             "scaleInDock": 1
@@ -1218,11 +1443,11 @@
             "scaleInDock": 1
         },
         "draussen.json": {
-            "scale": 1.5,
-            "selectedLayer": 10,
+            "scale": 0.33,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 2708.6666666666665,
-                "y": 75.66666666666666
+                "x": 1266.6666666666667,
+                "y": 3201.5151515151515
             }
         },
         "draussen.json#Basketball": {
@@ -1401,7 +1626,7 @@
             "scale": 0.4821969696969697,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 684.3676355066773,
+                "x": 686.4414768263945,
                 "y": 1228.7509819324432
             }
         },
@@ -1498,11 +1723,11 @@
             "scaleInEditor": 1
         },
         "suedf0etage.json": {
-            "scale": 0.25,
-            "selectedLayer": 1,
+            "scale": 0.75,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 3472,
-                "y": 1918
+                "x": 1924,
+                "y": 2759.333333333333
             }
         },
         "suedf0etage.json#DeviantMilkian": {
@@ -1530,8 +1755,8 @@
             "scale": 0.5,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 2040,
-                "y": 2913
+                "x": 2540,
+                "y": 2181
             }
         },
         "suedf1etage.json#DeviantMilkian": {
@@ -1550,6 +1775,9 @@
         "suedf1etage.json#cija": {
             "scaleInDock": 1
         },
+        "suedf1etage.json#roterFaden": {
+            "scaleInDock": 1
+        },
         "suedf1etage.json#walls2": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -1558,7 +1786,7 @@
             "scale": 0.33,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 1266.6666666666667,
+                "x": 1269.6969696969697,
                 "y": 977.2727272727273
             }
         },
@@ -1585,8 +1813,8 @@
             "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1447,
-                "y": 1281.5
+                "x": 2707,
+                "y": 948.5
             }
         },
         "suedfHof.json#01_palette1": {
@@ -1734,20 +1962,20 @@
         "suedf1etage.json"
     ],
     "project": "GBG-Workadventure.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
-        "dach.json",
-        "draussen.json",
-        "draussenx.json",
-        "Erdgeschoss.json",
-        "suedf2etage.json",
         "suedfHof.json",
-        "hinterHof.json",
-        "garden.json",
         "Obergeschoss.json",
-        "Obergeschossx.json",
-        "done/tsx/tilesets_deviant_milkian_1.tsx",
-        "Forum.json"
+        "draussen.json",
+        "suedf0etage.json",
+        "Forum.json",
+        "Erdgeschoss.json",
+        "garden.json",
+        "suedf1etage.json",
+        "suedf2etage.json",
+        "Forumz.json",
+        "Erdgeschossz.json",
+        "done/Erdgeschossx.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
