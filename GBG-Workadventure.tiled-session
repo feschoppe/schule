@@ -636,7 +636,7 @@
         },
         "Lobby.json": {
             "scale": 2,
-            "selectedLayer": 10,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": -15,
                 "y": 260.25
@@ -1724,10 +1724,10 @@
         },
         "suedf0etage.json": {
             "scale": 0.75,
-            "selectedLayer": 24,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1924,
-                "y": 2759.333333333333
+                "x": 1573.3333333333335,
+                "y": 1128.6666666666665
             }
         },
         "suedf0etage.json#DeviantMilkian": {
@@ -1753,10 +1753,10 @@
         },
         "suedf1etage.json": {
             "scale": 0.5,
-            "selectedLayer": 26,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2540,
-                "y": 2181
+                "x": 3380,
+                "y": 2761
             }
         },
         "suedf1etage.json#DeviantMilkian": {
@@ -1786,8 +1786,8 @@
             "scale": 0.33,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 1269.6969696969697,
-                "y": 977.2727272727273
+                "x": 1272.727272727273,
+                "y": 1646.9696969696968
             }
         },
         "suedf2etage.json#DeviantMilkian": {
@@ -1811,10 +1811,10 @@
         },
         "suedfHof.json": {
             "scale": 1,
-            "selectedLayer": 5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 2707,
-                "y": 948.5
+                "x": 909,
+                "y": 765.5
             }
         },
         "suedfHof.json#01_palette1": {
@@ -1962,7 +1962,7 @@
         "suedf1etage.json"
     ],
     "project": "GBG-Workadventure.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "suedfHof.json",
         "Obergeschoss.json",
