@@ -361,7 +361,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Erdgeschoss.json#startSF"
+                 "value":"Forum.json#startSF"
                 }],
          "type":"tilelayer",
          "visible":true,
