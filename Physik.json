@@ -153,6 +153,12 @@
          "id":47,
          "name":"exitNB",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"NeubauEG.json#startPhysik"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
