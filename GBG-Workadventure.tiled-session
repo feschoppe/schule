@@ -548,7 +548,7 @@
         },
         "Forum.json": {
             "scale": 0.5,
-            "selectedLayer": 11,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 326,
                 "y": 707
@@ -786,7 +786,7 @@
         },
         "NeubauEG.json": {
             "scale": 0.5,
-            "selectedLayer": 13,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 774,
                 "y": 413
@@ -936,10 +936,10 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 2,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 2846.6666666666665,
-                "y": 2060.6666666666665
+                "x": 2730.6666666666665,
+                "y": 2791.333333333333
             }
         },
         "Obergeschoss.json#Floor1": {
@@ -1007,7 +1007,7 @@
         },
         "Physik.json": {
             "scale": 1.7287259615384616,
-            "selectedLayer": 12,
+            "selectedLayer": 15,
             "viewCenter": {
                 "x": 256.8365431412084,
                 "y": 208.53507613154417
