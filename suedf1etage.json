@@ -15,6 +15,12 @@
          "id":35,
          "name":"WSStern",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/grafmoehring.de\/tatue\/roterFaden.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":111,

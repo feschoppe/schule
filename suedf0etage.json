@@ -15,6 +15,12 @@
          "id":34,
          "name":"WSStern",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/grafmoehring.de\/tatue\/roterFaden.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":217,
@@ -49,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/2xlol-SNQRU"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/Sanidienst\/mysimpleshow_Der_Schulsanit_tsdienst_am_GBG.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
