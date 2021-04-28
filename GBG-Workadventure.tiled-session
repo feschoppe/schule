@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "suedfHof.json",
+    "activeFile": "",
     "expandedProjectPaths": [
-        "assets/gbg",
-        "done/tsx",
         "assets",
-        "."
+        "done/tsx",
+        ".",
+        "assets/gbg"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -231,10 +231,10 @@
         },
         "Container.json": {
             "scale": 1.5,
-            "selectedLayer": 2,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 3671.333333333333,
-                "y": 1545
+                "x": 3780.6666666666665,
+                "y": 1256.3333333333333
             }
         },
         "Container.json#Tafeln": {
@@ -275,7 +275,7 @@
             "scale": 0.75,
             "selectedLayer": 37,
             "viewCenter": {
-                "x": 4762.666666666666,
+                "x": 4761.333333333333,
                 "y": 2832.6666666666665
             }
         },
@@ -1007,9 +1007,9 @@
         },
         "Physik.json": {
             "scale": 1.7287259615384616,
-            "selectedLayer": 15,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 256.8365431412084,
+                "x": 257.41500382395884,
                 "y": 208.53507613154417
             }
         },
@@ -1249,8 +1249,8 @@
             "scale": 1.5,
             "selectedLayer": 18,
             "viewCenter": {
-                "x": 255.99999999999994,
-                "y": 208.33333333333334
+                "x": 255.99999999999997,
+                "y": 208.33333333333331
             }
         },
         "dach.json#Basketball": {
@@ -1482,8 +1482,8 @@
             "scale": 0.75,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 3423.9999999999995,
-                "y": 462
+                "x": 1919.9999999999998,
+                "y": 1919.3333333333333
             }
         },
         "draussen.json#Basketball": {
@@ -1853,8 +1853,8 @@
             "scale": 1,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1276,
-                "y": 994.5
+                "x": 1275,
+                "y": 1326.5
             }
         },
         "suedfHof.json#01_palette1": {
@@ -1995,31 +1995,22 @@
     "map.tileWidth": 16,
     "map.width": 80,
     "openFiles": [
-        "draussen.json",
-        "dach.json",
-        "Erdgeschoss.json",
-        "suedf0etage.json",
-        "alchtest.json",
-        "suedfHof.json",
-        "suedfHofx.json",
-        "Sporthalle.json",
-        "suedf1etage.json"
     ],
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "draussen.json",
+        "suedf1etage.json",
+        "Sporthalle.json",
+        "suedfHof.json",
+        "suedf0etage.json",
         "Erdgeschoss.json",
+        "dach.json",
+        "Container.json",
         "NeubauEG.json",
         "Marcin.json",
         "Forum.json",
-        "Obergeschoss.json",
-        "Sporthalle.json",
-        "suedf0etage.json",
-        "draussen.json",
-        "NeubauOG.json",
-        "suedf1etage.json",
-        "Container.json",
-        "suedf2etage.json"
+        "Obergeschoss.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
