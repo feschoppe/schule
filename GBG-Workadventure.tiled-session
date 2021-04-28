@@ -786,7 +786,7 @@
         },
         "NeubauEG.json": {
             "scale": 0.5,
-            "selectedLayer": 6,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 774,
                 "y": 413
@@ -936,10 +936,10 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 21,
+            "selectedLayer": 22,
             "viewCenter": {
-                "x": 2730.6666666666665,
-                "y": 2791.333333333333
+                "x": 1144,
+                "y": 1743.333333333333
             }
         },
         "Obergeschoss.json#Floor1": {
@@ -975,30 +975,44 @@
             "scaleInDock": 1
         },
         "Obergeschossx.json": {
-            "scale": 0.16593886462882093,
-            "selectedLayer": 0,
+            "scale": 0.125,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 3664.0000000000005,
-                "y": 1744.618421052632
+                "x": 4952,
+                "y": 1388
             }
         },
         "Obergeschossx.json#Tafeln": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Obergeschossx.json#cija": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Obergeschossx.json#dm": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Obergeschossx.json#dmL": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Obergeschossx.json#floor": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Obergeschossx.json#roterFaden": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Obergeschossx.json#walls2": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Obergeschossx.json#walls2L": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Pakett.tsx": {
             "dynamicWrapping": false,
@@ -1826,8 +1840,8 @@
             "scale": 1.5,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 771.3333333333333,
-                "y": 848.3333333333333
+                "x": 770.6666666666667,
+                "y": 847.6666666666665
             }
         },
         "suedf2etage.json#DeviantMilkian": {
@@ -1999,18 +2013,18 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "draussen.json",
+        "Obergeschossx.json",
+        "NeubauEG.json",
         "suedf1etage.json",
+        "Forum.json",
+        "suedf2etage.json",
+        "draussen.json",
         "Sporthalle.json",
         "suedfHof.json",
         "suedf0etage.json",
         "Erdgeschoss.json",
         "dach.json",
-        "Container.json",
-        "NeubauEG.json",
-        "Marcin.json",
-        "Forum.json",
-        "Obergeschoss.json"
+        "Container.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
