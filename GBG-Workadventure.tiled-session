@@ -2003,7 +2003,7 @@
         "suedf1etage.json"
     ],
     "project": "GBG-Workadventure.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "NeubauEG.json",
         "Obergeschoss.json",
