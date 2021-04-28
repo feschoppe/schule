@@ -275,8 +275,8 @@
             "scale": 0.75,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 5686.666666666666,
-                "y": 3272.6666666666665
+                "x": 3663.9999999999995,
+                "y": 3344.6666666666665
             }
         },
         "Erdgeschoss.json#Bunnys": {
@@ -1478,10 +1478,10 @@
         },
         "draussen.json": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 513,
-                "y": 88.5
+                "x": 2621,
+                "y": 3692.5
             }
         },
         "draussen.json#Basketball": {
