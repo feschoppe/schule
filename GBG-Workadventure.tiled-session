@@ -273,10 +273,10 @@
         },
         "Erdgeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 20,
+            "selectedLayer": 37,
             "viewCenter": {
-                "x": 1049.3333333333333,
-                "y": 2750
+                "x": 4762.666666666666,
+                "y": 2832.6666666666665
             }
         },
         "Erdgeschoss.json#Bunnys": {
