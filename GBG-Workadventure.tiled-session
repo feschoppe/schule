@@ -876,8 +876,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 629.3333333333333,
-                "y": 746
+                "x": 543.9999999999999,
+                "y": 699.3333333333333
             }
         },
         "NeubauOG.json#03_window_door1": {
@@ -1762,7 +1762,7 @@
             "scale": 0.75,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 1226.6666666666665,
+                "x": 1225.3333333333335,
                 "y": 207.33333333333331
             }
         },
@@ -2008,14 +2008,14 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "suedf1etage.json",
         "suedf0etage.json",
-        "Forum.json",
+        "draussen.json",
         "NeubauOG.json",
+        "suedf1etage.json",
+        "Forum.json",
         "Sporthalle.json",
         "NeubauEG.json",
         "Obergeschoss.json",
-        "draussen.json",
         "Marcin.json",
         "Container.json",
         "Erdgeschoss.json",

@@ -507,6 +507,12 @@
          "id":3,
          "name":"M\u00f6bel1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collide",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":111,
@@ -519,6 +525,12 @@
          "id":4,
          "name":"M\u00f6bel2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collide",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":111,
