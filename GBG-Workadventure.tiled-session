@@ -548,7 +548,7 @@
         },
         "Forum.json": {
             "scale": 0.5,
-            "selectedLayer": 3,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 326,
                 "y": 707
