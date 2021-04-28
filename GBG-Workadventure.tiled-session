@@ -1477,11 +1477,11 @@
             "scaleInDock": 1
         },
         "draussen.json": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 2552,
-                "y": 804.6666666666665
+                "x": 513,
+                "y": 88.5
             }
         },
         "draussen.json#Basketball": {
