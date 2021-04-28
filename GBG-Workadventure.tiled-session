@@ -1478,7 +1478,7 @@
         },
         "draussen.json": {
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 2621,
                 "y": 3692.5
@@ -2005,15 +2005,15 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Marcin.json",
-        "draussen.json",
-        "NeubauOG.json",
         "NeubauEG.json",
+        "Obergeschoss.json",
+        "Forum.json",
+        "draussen.json",
+        "Marcin.json",
+        "NeubauOG.json",
         "Container.json",
         "suedf0etage.json",
         "Sporthalle.json",
-        "Obergeschoss.json",
-        "Forum.json",
         "Erdgeschoss.json",
         "suedf2etage.json",
         "suedf1etage.json"
