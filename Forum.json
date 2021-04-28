@@ -217,7 +217,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Erdgeschoss.json#startHGWest"
+                 "value":"Erdgeschoss.json#startForumWest"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -235,7 +235,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Erdgeschoss.json#startHGOst"
+                 "value":"Erdgeschoss.json#startForumOst"
                 }],
          "type":"tilelayer",
          "visible":true,
