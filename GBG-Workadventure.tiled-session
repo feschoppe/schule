@@ -936,7 +936,7 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 6,
+            "selectedLayer": 21,
             "viewCenter": {
                 "x": 2730.6666666666665,
                 "y": 2791.333333333333
@@ -1032,8 +1032,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2282.6666666666665,
-                "y": 2090
+                "x": 4552,
+                "y": 1511.3333333333333
             }
         },
         "Sporthalle.json#Basketball": {
@@ -2008,17 +2008,17 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Forum.json",
-        "suedf0etage.json",
+        "Erdgeschoss.json",
         "NeubauEG.json",
+        "Marcin.json",
+        "Forum.json",
+        "Obergeschoss.json",
+        "Sporthalle.json",
+        "suedf0etage.json",
         "draussen.json",
         "NeubauOG.json",
         "suedf1etage.json",
-        "Sporthalle.json",
-        "Obergeschoss.json",
-        "Marcin.json",
         "Container.json",
-        "Erdgeschoss.json",
         "suedf2etage.json"
     ],
     "tileset.embedInMap": true,
