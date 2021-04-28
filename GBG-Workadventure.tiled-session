@@ -231,10 +231,10 @@
         },
         "Container.json": {
             "scale": 1.5,
-            "selectedLayer": 10,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 11040.666666666666,
-                "y": 1347
+                "x": 3671.333333333333,
+                "y": 1545
             }
         },
         "Container.json#Tafeln": {
@@ -273,10 +273,10 @@
         },
         "Erdgeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 42,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 7485.333333333333,
-                "y": 2884.6666666666665
+                "x": 1470.6666666666665,
+                "y": 2502
             }
         },
         "Erdgeschoss.json#Bunnys": {
@@ -731,10 +731,10 @@
         },
         "Marcin.json": {
             "scale": 0.5386518711807147,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 241.3432626067787,
-                "y": 440.9155759162305
+                "y": 442.7720625516673
             }
         },
         "Marcin.json#BaseChip_pipo": {
@@ -747,6 +747,9 @@
             "scaleInDock": 1
         },
         "Marcin.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Marcin.json#roterFaden": {
             "scaleInDock": 1
         },
         "Marcin.json#tilesets_deviant_milkian_1": {
@@ -782,17 +785,35 @@
             "scaleInDock": 1
         },
         "NeubauEG.json": {
-            "scale": 3,
-            "selectedLayer": 2,
+            "scale": 0.5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1754,
-                "y": 658.5
+                "x": 1998,
+                "y": 1957
             }
+        },
+        "NeubauEG.json#03_window_door1": {
+            "scaleInDock": 1
+        },
+        "NeubauEG.json#04_emergency_exit_left_32x32-sheet": {
+            "scaleInDock": 1
         },
         "NeubauEG.json#05_shelve2": {
             "scaleInDock": 1
         },
+        "NeubauEG.json#05_window_wall1": {
+            "scaleInDock": 1
+        },
+        "NeubauEG.json#07_tuer_doppel": {
+            "scaleInDock": 1
+        },
+        "NeubauEG.json#10_caution_tape_side_32x32": {
+            "scaleInDock": 1
+        },
         "NeubauEG.json#13_wagenvoll": {
+            "scaleInDock": 1
+        },
+        "NeubauEG.json#21_anatomieposter_kl": {
             "scaleInDock": 1
         },
         "NeubauEG.json#AceSet-Hospital": {
@@ -807,6 +828,12 @@
         "NeubauEG.json#Kitchen-deco": {
             "scaleInDock": 1
         },
+        "NeubauEG.json#Tafeln": {
+            "scaleInDock": 1
+        },
+        "NeubauEG.json#Warnung": {
+            "scaleInDock": 1
+        },
         "NeubauEG.json#cija_Pipoya_CC0": {
             "scaleInDock": 1
         },
@@ -817,6 +844,9 @@
             "scaleInDock": 1
         },
         "NeubauEG.json#general": {
+            "scaleInDock": 1
+        },
+        "NeubauEG.json#roterFaden": {
             "scaleInDock": 1
         },
         "NeubauEG.json#shelve": {
@@ -844,10 +874,10 @@
         },
         "NeubauOG.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1497.3333333333335,
-                "y": 436.6666666666667
+                "x": 629.3333333333333,
+                "y": 746
             }
         },
         "NeubauOG.json#03_window_door1": {
@@ -906,10 +936,10 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 14,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 4866.666666666666,
-                "y": 2350
+                "x": 2846.6666666666665,
+                "y": 2060.6666666666665
             }
         },
         "Obergeschoss.json#Floor1": {
@@ -1000,10 +1030,10 @@
         },
         "Sporthalle.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 1337.3333333333335,
-                "y": 671.3333333333333
+                "x": -85.33333333333337,
+                "y": 296.6666666666667
             }
         },
         "Sporthalle.json#Basketball": {
@@ -1017,6 +1047,9 @@
             "scaleInEditor": 1
         },
         "Sporthalle.json#Schränke_DM": {
+            "scaleInDock": 1
+        },
+        "Sporthalle.json#Text": {
             "scaleInDock": 1
         },
         "Sporthalle.json#bicycle": {
@@ -1444,11 +1477,11 @@
             "scaleInDock": 1
         },
         "draussen.json": {
-            "scale": 0.33,
-            "selectedLayer": 9,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1266.6666666666667,
-                "y": 3201.5151515151515
+                "x": 2552,
+                "y": 804.6666666666665
             }
         },
         "draussen.json#Basketball": {
@@ -1725,10 +1758,10 @@
         },
         "suedf0etage.json": {
             "scale": 0.75,
-            "selectedLayer": 29,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 2818.6666666666665,
-                "y": 1639.333333333333
+                "y": 1638
             }
         },
         "suedf0etage.json#DeviantMilkian": {
@@ -1776,6 +1809,9 @@
         "suedf1etage.json#cija": {
             "scaleInDock": 1
         },
+        "suedf1etage.json#r.Fad": {
+            "scaleInDock": 1
+        },
         "suedf1etage.json#roterFaden": {
             "scaleInDock": 1
         },
@@ -1787,7 +1823,7 @@
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1275.757575757576,
+                "x": 1278.787878787879,
                 "y": 1646.9696969696968
             }
         },
@@ -1842,6 +1878,9 @@
         "suedfHof.json#Storage": {
             "scaleInDock": 1
         },
+        "suedfHof.json#Text": {
+            "scaleInDock": 1
+        },
         "suedfHof.json#autos": {
             "scaleInDock": 1
         },
@@ -1856,7 +1895,8 @@
             "scaleInDock": 1
         },
         "suedfHof.json#roterFaden": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "suedfHof.json#wintiles": {
             "scaleInDock": 1
@@ -1965,18 +2005,18 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "NeubauOG.json",
+        "NeubauEG.json",
+        "Container.json",
+        "suedf0etage.json",
         "Sporthalle.json",
+        "Obergeschoss.json",
+        "Forum.json",
+        "Erdgeschoss.json",
+        "draussen.json",
         "suedf2etage.json",
         "suedf1etage.json",
-        "suedf0etage.json",
-        "Forum.json",
-        "Lobby.json",
-        "suedfHof.json",
-        "Obergeschoss.json",
-        "draussen.json",
-        "Erdgeschoss.json",
-        "garden.json",
-        "Forumz.json"
+        "suedfHof.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
