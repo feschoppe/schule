@@ -1478,7 +1478,7 @@
         },
         "draussen.json": {
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 513,
                 "y": 88.5
@@ -2005,6 +2005,8 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Marcin.json",
+        "draussen.json",
         "NeubauOG.json",
         "NeubauEG.json",
         "Container.json",
@@ -2013,10 +2015,8 @@
         "Obergeschoss.json",
         "Forum.json",
         "Erdgeschoss.json",
-        "draussen.json",
         "suedf2etage.json",
-        "suedf1etage.json",
-        "suedfHof.json"
+        "suedf1etage.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
