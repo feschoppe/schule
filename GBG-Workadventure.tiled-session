@@ -2006,15 +2006,15 @@
         "suedf1etage.json"
     ],
     "project": "GBG-Workadventure.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
+        "Forum.json",
         "suedf0etage.json",
+        "NeubauEG.json",
         "draussen.json",
         "NeubauOG.json",
         "suedf1etage.json",
-        "Forum.json",
         "Sporthalle.json",
-        "NeubauEG.json",
         "Obergeschoss.json",
         "Marcin.json",
         "Container.json",
