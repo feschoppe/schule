@@ -112,7 +112,7 @@
                  "value":"https:\/\/grafmoehring.de\/tatue\/roterFaden.html"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
