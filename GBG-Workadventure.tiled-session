@@ -831,7 +831,7 @@
         },
         "NeubauEG.json": {
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 1596,
                 "y": 2049
