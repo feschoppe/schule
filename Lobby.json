@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Lobby.json#startJitsi"
+                 "value":"Lobby.json#startGuide"
                 }],
          "type":"tilelayer",
          "visible":true,

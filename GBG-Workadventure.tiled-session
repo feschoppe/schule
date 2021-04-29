@@ -981,10 +981,10 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 14,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 6408,
-                "y": 2167.333333333333
+                "x": 6202.666666666666,
+                "y": 1774
             }
         },
         "Obergeschoss.json#Floor1": {
