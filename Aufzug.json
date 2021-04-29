@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Erdgeschoss#startSporthalle"
+                 "value":"Erdgeschoss.json#startSporthalle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Obergeschoss#startFahrstuhl"
+                 "value":"Obergeschoss.json#startFahrstuhl"
                 }],
          "type":"tilelayer",
          "visible":true,
