@@ -175,7 +175,7 @@
         },
         "Aufzug.json": {
             "scale": 1.5,
-            "selectedLayer": 4,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 255.99999999999994,
                 "y": 208.33333333333334
@@ -316,11 +316,11 @@
             "scaleInEditor": 1
         },
         "Erdgeschoss.json": {
-            "scale": 0.75,
-            "selectedLayer": 34,
+            "scale": 1.5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 7524,
-                "y": 2768.6666666666665
+                "x": 1733.3333333333333,
+                "y": 1271
             }
         },
         "Erdgeschoss.json#Bunnys": {
@@ -328,7 +328,8 @@
             "scaleInEditor": 1
         },
         "Erdgeschoss.json#Chemie": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Erdgeschoss.json#DeviantMilkian": {
             "scaleInDock": 1
@@ -982,8 +983,8 @@
             "scale": 0.75,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 7148,
-                "y": 2247.333333333333
+                "x": 670.6666666666666,
+                "y": 1219.3333333333333
             }
         },
         "Obergeschoss.json#Floor1": {
@@ -2084,9 +2085,10 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Obergeschoss.json",
+        "Aufzug.json",
         "NeubauOG.json",
         "suedfHof.json",
-        "Obergeschoss.json",
         "Physik.json",
         "suedf2etage.json",
         "Sporthalle.json",
@@ -2094,8 +2096,7 @@
         "NeubauEG.json",
         "Obergeschossx.json",
         "Forum.json",
-        "draussen.json",
-        "suedf0etage.json"
+        "draussen.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
