@@ -2085,6 +2085,8 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "NeubauEG.json",
+        "Erdgeschoss.json",
         "Obergeschoss.json",
         "Aufzug.json",
         "NeubauOG.json",
@@ -2093,10 +2095,8 @@
         "suedf2etage.json",
         "Sporthalle.json",
         "suedf1etage.json",
-        "NeubauEG.json",
         "Obergeschossx.json",
-        "Forum.json",
-        "draussen.json"
+        "Forum.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
