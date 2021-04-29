@@ -7,8 +7,8 @@
     "expandedProjectPaths": [
         "assets",
         "done/tsx",
-        ".",
-        "assets/gbg"
+        "assets/gbg",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -786,10 +786,10 @@
         },
         "NeubauEG.json": {
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 774,
-                "y": 413
+                "x": 1596,
+                "y": 2049
             }
         },
         "NeubauEG.json#03_window_door1": {
@@ -938,8 +938,8 @@
             "scale": 0.75,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 1144,
-                "y": 1743.333333333333
+                "x": 4721.333333333333,
+                "y": 852.6666666666665
             }
         },
         "Obergeschoss.json#Floor1": {
@@ -1023,8 +1023,8 @@
             "scale": 1.7287259615384616,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 257.41500382395884,
-                "y": 208.53507613154417
+                "x": 255.10116109295694,
+                "y": 206.79969408329276
             }
         },
         "Physik.json#cija": {
@@ -1044,10 +1044,10 @@
         },
         "Sporthalle.json": {
             "scale": 0.75,
-            "selectedLayer": 13,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 4552,
-                "y": 1511.3333333333333
+                "x": 2506.6666666666665,
+                "y": 1359.3333333333333
             }
         },
         "Sporthalle.json#Basketball": {
@@ -1071,7 +1071,8 @@
             "scaleInDock": 1
         },
         "Sporthalle.json#cija": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Sporthalle.json#floors": {
             "scaleInDock": 1
@@ -1803,10 +1804,10 @@
         },
         "suedf1etage.json": {
             "scale": 0.5,
-            "selectedLayer": 8,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 2330,
-                "y": 2655
+                "x": 1366,
+                "y": 2753
             }
         },
         "suedf1etage.json#DeviantMilkian": {
@@ -1840,8 +1841,8 @@
             "scale": 1.5,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 770.6666666666667,
-                "y": 847.6666666666665
+                "x": 769.3333333333333,
+                "y": 845.6666666666665
             }
         },
         "suedf2etage.json#DeviantMilkian": {
@@ -1864,11 +1865,11 @@
             "scaleInDock": 1
         },
         "suedfHof.json": {
-            "scale": 1,
-            "selectedLayer": 8,
+            "scale": 0.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1275,
-                "y": 1326.5
+                "x": 2144,
+                "y": 1239
             }
         },
         "suedfHof.json#01_palette1": {
@@ -1901,6 +1902,14 @@
         "suedfHof.json#autos": {
             "scaleInDock": 1
         },
+        "suedfHof.json#cija": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "suedfHof.json#cija_schmal": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "suedfHof.json#dk_garden": {
             "scaleInDock": 1
         },
@@ -1922,11 +1931,11 @@
             "scaleInDock": 1
         },
         "suedfHofx.json": {
-            "scale": 0.33,
-            "selectedLayer": 6,
+            "scale": 0.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 2642.424242424243,
-                "y": 1216.6666666666667
+                "x": 2454,
+                "y": 1293
             }
         },
         "suedfHofx.json#07_container_side1": {
@@ -1938,8 +1947,23 @@
         "suedfHofx.json#BaseChip_pipo": {
             "scaleInDock": 1
         },
+        "suedfHofx.json#BaseChip_schmal": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "suedfHofx.json#Basketball": {
+            "scaleInDock": 1
+        },
         "suedfHofx.json#Storage": {
             "scaleInDock": 1
+        },
+        "suedfHofx.json#cija": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "suedfHofx.json#cija_schmal": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "suedfHofx.json#dk_garden": {
             "scaleInDock": 1
@@ -2013,18 +2037,18 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Obergeschossx.json",
-        "NeubauEG.json",
-        "suedf1etage.json",
-        "Forum.json",
+        "Obergeschoss.json",
+        "Physik.json",
         "suedf2etage.json",
-        "draussen.json",
         "Sporthalle.json",
+        "suedf1etage.json",
+        "NeubauEG.json",
+        "Obergeschossx.json",
+        "Forum.json",
+        "draussen.json",
         "suedfHof.json",
         "suedf0etage.json",
-        "Erdgeschoss.json",
-        "dach.json",
-        "Container.json"
+        "Erdgeschoss.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
