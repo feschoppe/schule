@@ -682,7 +682,7 @@
         },
         "Lobby.json": {
             "scale": 2,
-            "selectedLayer": 29,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 261,
                 "y": 254.75
