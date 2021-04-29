@@ -175,7 +175,7 @@
         },
         "Aufzug.json": {
             "scale": 1.5,
-            "selectedLayer": 5,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 255.99999999999994,
                 "y": 208.33333333333334
@@ -317,7 +317,7 @@
         },
         "Erdgeschoss.json": {
             "scale": 1.5,
-            "selectedLayer": 7,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 5440,
                 "y": 1866.333333333333
@@ -682,10 +682,10 @@
         },
         "Lobby.json": {
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": -15,
-                "y": 260.25
+                "x": 261,
+                "y": 254.75
             }
         },
         "Lobby.json#Basketball": {
@@ -981,10 +981,10 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 20,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 670.6666666666666,
-                "y": 1219.3333333333333
+                "x": 6408,
+                "y": 2167.333333333333
             }
         },
         "Obergeschoss.json#Floor1": {
