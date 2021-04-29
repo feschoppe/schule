@@ -173,6 +173,50 @@
                 "y": -126
             }
         },
+        "Aufzug.json": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 255.99999999999994,
+                "y": 208.33333333333334
+            }
+        },
+        "Aufzug.json#Basketball": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#Boxen": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#bicycle": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#cija": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#floors": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#hyp0": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#hyp1": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#hyp2": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#hyp3": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#hyp4": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#hyp5": {
+            "scaleInDock": 1
+        },
+        "Aufzug.json#walls2": {
+            "scaleInDock": 1
+        },
         "Basketball.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -273,10 +317,10 @@
         },
         "Erdgeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 37,
+            "selectedLayer": 34,
             "viewCenter": {
-                "x": 4761.333333333333,
-                "y": 2832.6666666666665
+                "x": 7524,
+                "y": 2768.6666666666665
             }
         },
         "Erdgeschoss.json#Bunnys": {
@@ -874,10 +918,10 @@
         },
         "NeubauOG.json": {
             "scale": 0.75,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 543.9999999999999,
-                "y": 699.3333333333333
+                "x": 2808,
+                "y": 784.6666666666665
             }
         },
         "NeubauOG.json#03_window_door1": {
@@ -936,10 +980,10 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 22,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 4721.333333333333,
-                "y": 852.6666666666665
+                "x": 7148,
+                "y": 2247.333333333333
             }
         },
         "Obergeschoss.json#Floor1": {
@@ -1902,6 +1946,9 @@
         "suedfHof.json#autos": {
             "scaleInDock": 1
         },
+        "suedfHof.json#benches": {
+            "scaleInDock": 1
+        },
         "suedfHof.json#cija": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -2037,6 +2084,8 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "NeubauOG.json",
+        "suedfHof.json",
         "Obergeschoss.json",
         "Physik.json",
         "suedf2etage.json",
@@ -2046,9 +2095,7 @@
         "Obergeschossx.json",
         "Forum.json",
         "draussen.json",
-        "suedfHof.json",
-        "suedf0etage.json",
-        "Erdgeschoss.json"
+        "suedf0etage.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
