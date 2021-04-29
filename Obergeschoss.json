@@ -377,9 +377,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Aufzug.json#startOG",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"Aufzug.json#startOG"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1405,7 +1405,7 @@
          "imageheight":3936,
          "imagewidth":480,
          "margin":0,
-         "name":"cija",
+         "name":"cijaPlus",
          "spacing":0,
          "tilecount":1845,
          "tileheight":32,
