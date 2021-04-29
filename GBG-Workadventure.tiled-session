@@ -1089,10 +1089,10 @@
         },
         "Sporthalle.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 2506.6666666666665,
-                "y": 1359.3333333333333
+                "x": 2462.6666666666665,
+                "y": 2523.333333333333
             }
         },
         "Sporthalle.json#Basketball": {
