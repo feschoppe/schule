@@ -177,8 +177,8 @@
             "scale": 1.5,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 255.99999999999994,
-                "y": 208.33333333333334
+                "x": 253.99999999999994,
+                "y": 207
             }
         },
         "Aufzug.json#Basketball": {
@@ -684,8 +684,8 @@
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 261,
-                "y": 254.75
+                "x": 260.5,
+                "y": 254.25
             }
         },
         "Lobby.json#Basketball": {
@@ -981,10 +981,10 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 28,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 6202.666666666666,
-                "y": 1774
+                "x": 1373.3333333333335,
+                "y": 1766
             }
         },
         "Obergeschoss.json#Floor1": {
@@ -994,6 +994,14 @@
             "scaleInDock": 1
         },
         "Obergeschoss.json#cija": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Obergeschoss.json#cija+": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Obergeschoss.json#cijaPlus": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
