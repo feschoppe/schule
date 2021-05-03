@@ -5,10 +5,10 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
-        "assets",
-        "done/tsx",
         "assets/gbg",
-        "."
+        ".",
+        "done/tsx",
+        "assets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -320,7 +320,7 @@
             "selectedLayer": 8,
             "viewCenter": {
                 "x": 5440,
-                "y": 1866.333333333333
+                "y": 1865.6666666666665
             }
         },
         "Erdgeschoss.json#Bunnys": {
@@ -778,8 +778,8 @@
             "scale": 0.5386518711807147,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 274.76002204464055,
-                "y": 507.7490947919539
+                "x": 336.02408101405354,
+                "y": 335.0958376963352
             }
         },
         "Marcin.json#BaseChip_pipo": {
@@ -981,10 +981,10 @@
         },
         "Obergeschoss.json": {
             "scale": 0.75,
-            "selectedLayer": 20,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 6069.333333333333,
-                "y": 2300.6666666666665
+                "x": 4676,
+                "y": 2854
             }
         },
         "Obergeschoss.json#Floor1": {
@@ -1099,8 +1099,8 @@
             "scale": 1,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 2522,
-                "y": 2401.5
+                "x": 1904,
+                "y": 1919.5
             }
         },
         "Sporthalle.json#Basketball": {
@@ -2093,18 +2093,18 @@
     "project": "GBG-Workadventure.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Marcin.json",
         "NeubauEG.json",
+        "Forum.json",
+        "Container.json",
+        "Aufzug.json",
+        "Sporthalle.json",
+        "Lobby.json",
         "Erdgeschoss.json",
         "Obergeschoss.json",
-        "Aufzug.json",
         "NeubauOG.json",
         "suedfHof.json",
-        "Physik.json",
-        "suedf2etage.json",
-        "Sporthalle.json",
-        "suedf1etage.json",
-        "Obergeschossx.json",
-        "Forum.json"
+        "Physik.json"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
