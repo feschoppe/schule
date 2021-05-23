@@ -51,12 +51,6 @@
          "id":34,
          "name":"JitsiGanztag",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Ganztag"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":111,

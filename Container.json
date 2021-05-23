@@ -33,12 +33,6 @@
          "id":26,
          "name":"JitsiMathe",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Mathe"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":350,

@@ -15,12 +15,6 @@
          "id":32,
          "name":"JitsiLobby",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Admin"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,

@@ -15,12 +15,6 @@
          "id":18,
          "name":"JitsiSport",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"JitsiRoom",
-                 "type":"string",
-                 "value":"Sport"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":120,

@@ -15,12 +15,6 @@
          "id":18,
          "name":"JitsiSL",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SL"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":229,
@@ -33,12 +27,6 @@
          "id":27,
          "name":"JitsiEnglisch",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"English"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":229,
@@ -51,12 +39,6 @@
          "id":28,
          "name":"JitsiFranz\u00f6sisch",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"France"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":229,
