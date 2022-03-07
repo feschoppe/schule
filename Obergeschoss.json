@@ -27,6 +27,12 @@
          "id":27,
          "name":"JitsiEnglisch",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Mathe"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":229,
