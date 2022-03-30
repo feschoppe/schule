@@ -581,6 +581,12 @@
  "nextlayerid":36,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"jitsiRoom",
+         "type":"string",
+         "value":"Ganztag"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,

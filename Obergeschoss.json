@@ -15,6 +15,12 @@
          "id":18,
          "name":"JitsiSL",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Schulleitung"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":229,
@@ -31,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Mathe"
+                 "value":"Englisch"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -45,6 +51,12 @@
          "id":28,
          "name":"JitsiFranz\u00f6sisch",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Franz\u00f6sisch"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":229,
@@ -79,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/-Mc0dCUzSZ0"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/Franzoesisch\/Vanessa7g17g2.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -187,7 +199,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/Latein\/LateinAmGBG.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/Latein\/Bastel-undSpielanleitungMolaRotunda.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
